@@ -8,4 +8,4 @@
 * https://youtu.be/R6ojskFNB6w 진짜 문제를 발견하는 법, 디자인 씽킹 [16:59]
  * [어린이 MRI](https://m.post.naver.com/viewer/postView.nhn?volumeNo=10048043&memberNo=1192430)
 # Design Thinking
-![Design Thinking](.dt-1.png)
+![Design Thinking](./dt-1.jpg)
